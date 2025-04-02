@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1733478610~exp=1733482210~hmac=143254f40abd0451ac881e7b4d19876c8acda135fc8ddbb455fd54236196d96d&w=1060)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Chamitha Jayavihan</h1>
 <h3 align="center">A passionate undegraduate from University of Moratuwa</h3>
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
