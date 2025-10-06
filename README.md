@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamithjay&label=Profile%20views&color=0e75b6&style=flat" alt="chamithjay" /> </p>
 
 
-- 🔭 I’m currently working on **E-Wastemart**
+- 🔭 I’m currently working on **Face_Recognition_attendance_system**
 
 - 🌱 I’m currently learning **Java,React,Node.js**
 
